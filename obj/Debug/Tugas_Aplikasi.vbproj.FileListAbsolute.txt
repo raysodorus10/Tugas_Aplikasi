@@ -1,0 +1,32 @@
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\bin\Debug\Tugas_Aplikasi.exe.config
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\bin\Debug\Tugas_Aplikasi.exe
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\bin\Debug\Tugas_Aplikasi.pdb
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\bin\Debug\Tugas_Aplikasi.xml
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.F_Login.resources
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.F_MainMenu.resources
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.Resources.resources
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.vbproj.GenerateResource.Cache
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.exe
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.xml
+G:\My Drive\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.pdb
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\bin\Debug\Tugas_Aplikasi.exe.config
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.exe
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.xml
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.pdb
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\bin\Debug\Tugas_Aplikasi.exe
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\bin\Debug\Tugas_Aplikasi.pdb
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\bin\Debug\Tugas_Aplikasi.xml
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.F_MainMenu.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.Resources.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.vbproj.GenerateResource.Cache
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.F_MasterMenu.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.vbprojResolveAssemblyReference.cache
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.F_MasterStockMinuman.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.frmCariBarang.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.frmNotaPenjualanPreview.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.frmPenjualan.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.frmLaporanStockMinumanPreview.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.frmLaporanStockMinuman.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.frmLaporanPenjualan.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.frmLaporanPenjualanPreview.resources
+D:\Tugas Aplikasi\Project\Aplikasi Penjualan Bakso\Tugas_Aplikasi\Tugas_Aplikasi\obj\Debug\Tugas_Aplikasi.frmLogin.resources
